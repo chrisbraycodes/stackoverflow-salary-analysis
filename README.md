@@ -3,6 +3,10 @@
 ## 📊 Project Overview
 This project uses data from the 2023 Stack Overflow Developer Survey to explore how factors like country, education, and remote work status affect yearly compensation.
 
+Here it is deployed:
+
+https://nbviewer.org/github/chrisbraycodes/stackoverflow-salary-analysis/blob/main/project.ipynb
+
 ## 💡 Questions Explored
 - Do developers in remote roles earn more?
 - Which countries report the highest median salaries?
